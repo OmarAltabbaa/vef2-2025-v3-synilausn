@@ -1,6 +1,6 @@
 # Vefforritun 2 2025, verkefni 3 sýnilausn
 
-Lausn á verkefni 3 í vefforritun 2 2025.
+Lausn á verkefni 3 í vefforritun 2 2025...
 
 ## Uppsetning
 
